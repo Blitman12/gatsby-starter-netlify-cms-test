@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: More about this site
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## **Who am I**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+My name is Brad Litman and I was born and raised in Arizona. I am really big into fitness and just recently discovered I actually enjoy reading. I never thought I would be a book guy but here we are. Aside from exercise and books I like to spend my time playing video games and relaxing with my wife, Sierra, and our two hairless cats. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+## **My goals**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+I have been working hard to develop my skills with HTML, CSS, JavaScript, React and other frameworks to get a job working as a Front-End Web Developer. I have used many resources like Codecademy, Pluralsight, Free Code Camp, Youtube and friends who work in the field. I have discovered this new passion and am excited to learn more and see where this takes me. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+## **Current work**
+
+I am currently working as a nurse for a credit card company. I can imagine your question: "What would a nurse be doing at a credit card company?" Well I asked the same thing in the job interview. I don't want to bore you so I will just jot down some cool stuff I get to do: Phlebotomy, Emergency Response, EKG`s, Acute Visits, and more! 
+
+## **What will I find here**
+
+This was built for a test blog to work with Netlify CMS. There will be a conglomeration of random posts about things I am interested in. Games, Weights, Animals and anything else that can come to mind. I hope you enjoy it!
